@@ -8,6 +8,7 @@
     background: url("../../images/utah-mountains-wallpaper-2.jpg");
     height: calc(100vh - 103px);
     font-family: 'Source Code Pro', monospace;
+    background-size: cover;
 }
 
 .home-landing h1 {
